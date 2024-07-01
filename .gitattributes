@@ -1,0 +1,5 @@
+* text=auto
+*.py eol=lf
+*.sh eol=lf
+*.bat eol=crlf
+*.md eol=lf
